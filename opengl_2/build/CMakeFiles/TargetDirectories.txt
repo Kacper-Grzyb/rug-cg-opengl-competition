@@ -1,0 +1,5 @@
+/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/CMakeFiles/OpenGL_2.dir
+/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/CMakeFiles/edit_cache.dir
+/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/CMakeFiles/rebuild_cache.dir
+/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/CMakeFiles/OpenGL_2_autogen_timestamp_deps.dir
+/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/CMakeFiles/OpenGL_2_autogen.dir

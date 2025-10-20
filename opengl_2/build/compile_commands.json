@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/OpenGL_2_autogen/mocs_compilation.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/mocs_compilation.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/OpenGL_2_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/mainwindow.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/mainwindow.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/mainwindow.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/mainview.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/mainview.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/mainview.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/mainview.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/userinput.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/userinput.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/userinput.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/userinput.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/model.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/model.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/model.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/model.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/utility.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/utility.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/utility.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/utility.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/main.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/main.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/main.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/main.cpp.o"
+},
+{
+  "directory": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/include -I/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtOpenGL -isystem /usr/include/qt6/QtOpenGLWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/OpenGL_2.dir/OpenGL_2_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "file": "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/build/OpenGL_2_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "output": "CMakeFiles/OpenGL_2.dir/OpenGL_2_autogen/EWIEGA46WW/qrc_resources.cpp.o"
+}
+]

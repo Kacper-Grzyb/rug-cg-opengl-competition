@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build/OpenGL_2_autogen",
+	"CMAKE_BINARY_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src",
+	"CMAKE_SOURCE_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build/OpenGL_2_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/models/cat.obj",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/shaders/toon_fragshader.glsl",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/shaders/toon_vertshader.glsl",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/shaders/outline_fragshader.glsl",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/shaders/outline_vertshader.glsl",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/textures/cat_norm.png",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/textures/cat_spec.png",
+		"/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/textures/cat_diff.png"
+	],
+	"LOCK_FILE" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build/CMakeFiles/OpenGL_2_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/build/CMakeFiles/OpenGL_2_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/grzybobi/Coding/University/rug-cg-opengl-competition/opengl_2/src/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
